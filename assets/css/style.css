@@ -1500,40 +1500,8 @@ header .form-inline {
     display: none; }
 
 #menuToggle2 {
-  padding-left: 25px; }
-
-#language-select {
-  color: #f1f2f7;
-  float: right;
-  margin: 7px 20px 0 0;
-  max-width: 80px; }
-  #language-select:focus, #language-select:visited {
-    border: none;
-    outline: 0; }
-  #language-select .dropdown-toggle:after {
-    display: none; }
-  #language-select .dropdown-menu {
-    background: #fff;
-    border: none;
-    border-radius: 0;
-    left: -8px !important;
-    min-width: inherit;
-    padding: 0 5px;
-    top: 46px !important; }
-    #language-select .dropdown-menu .dropdown-item {
-      margin-right: 0;
-      max-width: 25px;
-      padding: 0; }
-      #language-select .dropdown-menu .dropdown-item:hover {
-        background: #fff; }
-      #language-select .dropdown-menu .dropdown-item .flag-icon {
-        margin-right: 0;
-        width: 25px; }
-
-.language-show + .dropdown-menu,
-.message-show + .dropdown-menu,
-.notification-show + .dropdown-menu {
-  display: block; }
+  padding-left: 25px; 
+}
 
 .content {
   float: left;
