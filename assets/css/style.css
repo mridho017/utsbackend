@@ -1609,9 +1609,9 @@ header .form-inline {
   width: 100%;
   z-index: 999; }
 
-.card .card-header .card-actions {
+.card .card-actions {
   float: right; }
-  .card .card-header .card-actions [class*="btn"] {
+  .card .card-actions [class*="btn"] {
     border-left: 1px solid rgba(120, 130, 140, 0.4);
     color: #878787;
     display: inline-block;
